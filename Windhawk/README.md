@@ -25,7 +25,8 @@ Some ideas, techniques, or configurations may have influenced my work. I have al
 
 The configurations provided here are my personal versions and should not be considered official configurations from the original creator.
 
-**Creator:** [MrDLingters](https://github.com/MrDLingters)
+**Creator:** [MrDLingters](https://github.com/MrDLingters)  
+**YouTube:** [@darrenlingters3512](https://www.youtube.com/@darrenlingters3512)
 
 ## Windhawk
 
