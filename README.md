@@ -49,9 +49,12 @@ Some of the configurations in this setup were created or modified using existing
 
 I would like to credit **MrDLingters** for his Windows customization work, which has been an important reference and source of inspiration for parts of my **Nilesoft Shell** and **Windhawk** setup.
 
+His videos and Windows customization content have also been an important source of inspiration for me and played a significant role in getting me interested in customizing my own Windows environment.
+
 I have experimented with, modified, and adapted some of the ideas and configurations to fit my personal Tokyo Night setup, sometimes with the help of AI.
 
-**Creator:** [MrDLingters](https://github.com/MrDLingters)
+**Creator:** [MrDLingters](https://github.com/MrDLingters)  
+**YouTube:** [@darrenlingters3512](https://www.youtube.com/@darrenlingters3512)
 
 The configurations in this repository are my personal versions and should not be considered official work from the original creator.
 
