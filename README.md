@@ -39,6 +39,26 @@ This setup is based around the **Tokyo Night** aesthetic and aims to provide a c
 
 The original themes, applications, plugins, and configurations remain the property of their respective authors.
 
+## 📌 Credits & Sources
+
+Most of the components in this repository were not created by me. This is a personal collection of themes, configurations, and customizations that I use on my computer.
+
+Some of the configurations in this setup were created or modified using existing work as references or sources of inspiration.
+
+### MrDLingters
+
+I would like to credit **MrDLingters** for his Windows customization work, which has been an important reference and source of inspiration for parts of my **Nilesoft Shell** and **Windhawk** setup.
+
+I have experimented with, modified, and adapted some of the ideas and configurations to fit my personal Tokyo Night setup, sometimes with the help of AI.
+
+I am crediting the original creator out of respect for the work that helped me build and customize my own setup.
+
+**Creator:** [MrDLingters](https://github.com/MrDLingters)
+
+The configurations in this repository are my personal versions and should not be considered official work from the original creator.
+
+All rights to third-party work remain with their respective authors.
+
 ## 📌 Disclaimer
 
 This repository is a personal collection of themes and configurations that I use on my own computer.
