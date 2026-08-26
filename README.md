@@ -51,11 +51,20 @@ I would like to credit **MrDLingters** for his Windows customization work, which
 
 I have experimented with, modified, and adapted some of the ideas and configurations to fit my personal Tokyo Night setup, sometimes with the help of AI.
 
-I am crediting the original creator out of respect for the work that helped me build and customize my own setup.
-
 **Creator:** [MrDLingters](https://github.com/MrDLingters)
 
 The configurations in this repository are my personal versions and should not be considered official work from the original creator.
+
+### SleepyCatHey
+
+I would also like to credit **SleepyCatHey** for his Windows customization work and videos, which have been a source of inspiration for my own Windows setup.
+
+I do not currently remember exactly which parts of my setup may have been directly influenced by his work, so I am intentionally not attributing any specific configuration or component to him.
+
+His content was, at the very least, an inspiration for experimenting with and customizing my Windows environment.
+
+**GitHub:** [SleepyCatHey](https://github.com/SleepyCatHey)
+**YouTube:** [@SleepyCatHey](https://www.youtube.com/@SleepyCatHey)
 
 All rights to third-party work remain with their respective authors.
 
