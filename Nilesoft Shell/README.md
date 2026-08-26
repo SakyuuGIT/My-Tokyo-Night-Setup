@@ -20,7 +20,8 @@ I would like to credit **MrDLingters** for his Windows customization work, which
 
 Some of the ideas, techniques, or configurations may have influenced this configuration, but the version provided here has been adapted for my personal setup.
 
-**Creator:** [MrDLingters](https://github.com/MrDLingters)
+**Creator:** [MrDLingters](https://github.com/MrDLingters)  
+**YouTube:** [@darrenlingters3512](https://www.youtube.com/@darrenlingters3512)
 
 ## Nilesoft Shell
 
