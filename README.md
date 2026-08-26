@@ -4,18 +4,18 @@ A collection of the Tokyo Night themes and configurations I personally use on my
 
 > **Important:** Most of the themes, configurations, plugins, and software included in this repository were **not created by me**. This repository is simply a collection of what I currently use as part of my personal setup.
 >
-> The only theme in this repository that was entirely created by me, with the assistance of AI, is the **OBS Studio Tokyo Night theme**. This is also why it has its own dedicated repository.
+> The only customization in this repository that was entirely created by me, with the assistance of AI, is the **OBS Studio Tokyo Night theme**. This is also why it has its own dedicated repository.
 
 ## 🗂️ Components
 
-| Application                             | Description                                                 | Official Website                                     |
-| --------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
-| 🎨 [Discord](./Discord)                 | Tokyo Night theme for Discord                               | [Discord](https://discord.com/)                      |
-| 🎥 [OBS Studio](./OBS-Studio)           | My own Tokyo Night theme for OBS Studio                     | [OBS Studio](https://obsproject.com/)                |
-| ⚡ [Windhawk](./Windhawk)                | Tokyo Night configurations for Windhawk mods                | [Windhawk](https://windhawk.net/)                    |
-| 🐚 [Nilesoft Shell](./Nilesoft%20Shell) | Tokyo Night configuration for Nilesoft Shell                | [Nilesoft Shell](https://www.nilesoft.org/)          |
-| 💻 [PowerShell](./Powershell)           | Tokyo Night configuration for Windows Terminal / PowerShell | [Windows Terminal](https://aka.ms/terminal)          |
-| 🧑‍💻 [VS Code](./VS-code)              | Tokyo Night theme installation instructions                 | [Visual Studio Code](https://code.visualstudio.com/) |
+| Application | Description | Official Website |
+|---|---|---|
+| 🎨 [Discord](./Discord) | Tokyo Night theme for Discord | [Discord](https://discord.com/) |
+| 🎥 [OBS Studio](./OBS-Studio) | My own Tokyo Night theme for OBS Studio | [OBS Studio](https://obsproject.com/) |
+| ⚡ [Windhawk](./Windhawk) | Tokyo Night configurations for Windhawk mods | [Windhawk](https://windhawk.net/) |
+| 🐚 [Nilesoft Shell](./Nilesoft%20Shell) | Tokyo Night configuration for Nilesoft Shell | [Nilesoft Shell](https://www.nilesoft.org/) |
+| 💻 [PowerShell](./Powershell) | Tokyo Night configuration for Windows Terminal | [Windows Terminal](https://aka.ms/terminal) |
+| 🧑‍💻 [VS Code](./VS-code) | Tokyo Night theme installation instructions | [Visual Studio Code](https://code.visualstudio.com/) |
 
 ## 🎥 OBS Studio
 
@@ -63,8 +63,17 @@ I do not currently remember exactly which parts of my setup may have been direct
 
 His content was, at the very least, an inspiration for experimenting with and customizing my Windows environment.
 
-**GitHub:** [SleepyCatHey](https://github.com/SleepyCatHey)
+**GitHub:** [SleepyCatHey](https://github.com/SleepyCatHey)  
 **YouTube:** [@SleepyCatHey](https://www.youtube.com/@SleepyCatHey)
+
+### refact0r
+
+The Discord theme included in this repository is a modified version of **system24** by **refact0r**, with the Tokyo Night variant used as the basis for my personal Discord setup.
+
+**Creator:** [refact0r](https://github.com/refact0r)  
+**Original project:** [system24](https://github.com/refact0r/system24)
+
+The original project is licensed under the MIT License. The original copyright and license information are retained in the theme file.
 
 All rights to third-party work remain with their respective authors.
 
