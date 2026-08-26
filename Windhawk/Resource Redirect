@@ -1,0 +1,9 @@
+iconTheme: Tokyo Night|themes/icons/niivu/Tokyo%20Night%20blank.zip
+disableThumbnails: 0
+allResourceRedirect: 0
+themePaths:
+  - ''
+redirectionResourcePaths:
+  - original: ''
+    redirect: ''
+themeFolder: ''
