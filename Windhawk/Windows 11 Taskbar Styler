@@ -1,0 +1,123 @@
+theme: ''
+styleConstants:
+  - 'BG = #1a1b26'
+  - 'BG2 = #24283b'
+  - 'BG3 = #343B58'
+  - 'Text = #9aa5ce'
+  - 'Text2 = #565f89'
+  - 'Button = #e0af68'
+  - 'RED = #f7768e'
+  - 'Border = #565f89'
+controlStyles:
+  - target: Rectangle#BackgroundFill
+    styles:
+      - Fill=$BG
+  - target: Taskbar.TaskListLabeledButtonPanel@CommonStates > Border#BackgroundElement
+    styles:
+      - Background@ActivePointerOver=$BG3
+      - Background@InactivePointerOver=Transparent
+      - Background@ActivePressed=Transparent
+      - Background@InactivePressed=Transparent
+      - Background@ActiveNormal=$BG3
+      - BorderBrush@ActivePointerOver=$Border
+      - BorderBrush@InactivePointerOver=$Border
+      - BorderBrush@ActivePressed=$Border
+      - BorderBrush@InactivePressed=$Border
+      - BorderBrush@ActiveNormal=$Border
+      - BorderThickness=1
+      - CornerRadius=5
+      - Margin@MultiWindowActive=0
+      - Background@MultiWindowActive=Transparent
+      - BorderBrush@MultiWindowActive=$Border
+      - Background@MultiWindowPointerOver=$Border
+      - BorderBrush@MultiWindowPointerOver=$Border
+  - target: Taskbar.TaskListButtonPanel@CommonStates > Border#BackgroundElement
+    styles:
+      - Background@ActivePointerOver=$BG3
+      - Background@InactivePointerOver=$BG3
+      - Background@ActivePressed=$BG3
+      - Background@InactivePressed=$BG3
+      - Background@ActiveNormal=$BG3
+      - BorderBrush@ActivePointerOver=$Border
+      - BorderBrush@InactivePointerOver=$Border
+      - BorderBrush@ActivePressed=$Border
+      - BorderBrush@InactivePressed=$Border
+      - BorderBrush@ActiveNormal=$Border
+      - BorderThickness=1
+      - CornerRadius=5
+  - target: Grid#SystemTrayFrameGrid
+    styles:
+      - Background=$BG2
+      - CornerRadius=18,0,0,18
+      - Margin=0,6,0,6
+  - target: Taskbar.TaskListLabeledButtonPanel@CommonStates > Rectangle#RunningIndicator
+    styles:
+      - Fill=$Button
+      - Fill@ActiveNormal=$RED
+      - Fill@ActivePointerOver=$RED
+      - Fill@MultiWindowActive=$RED
+      - Fill@MultiWindowPointerOver=$Button
+  - target: TextBlock#TimeInnerTextBlock
+    styles:
+      - Foreground=$Button
+  - target: TextBlock#DateInnerTextBlock
+    styles:
+      - Foreground=$Button
+  - target: SystemTray.AdaptiveTextBlock > TextBlock
+    styles:
+      - Foreground=$Text
+  - target: Windows.UI.Xaml.Controls.TextBlock[Text=]
+    styles:
+      - Text=
+      - Foreground=$RED
+  - target: Taskbar.SearchBoxButton
+    styles:
+      - Height=48%
+      - Margin=0
+  - target: TextBlock#SearchBoxTextBlock
+    styles:
+      - Foreground=#Text
+  - target: Border#MultiWindowElement
+    styles:
+      - Height=0
+      - Padding=0
+  - target: Grid
+    styles:
+      - RequestedTheme=2
+  - target: MenuFlyoutPresenter
+    styles:
+      - Background=$BG
+  - target: Border#OverflowFlyoutBackgroundBorder
+    styles:
+      - Background=$BG
+  - target: SystemTray.OmniButton#NotificationCenterButton > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.ContentPresenter > Windows.UI.Xaml.Controls.ItemsPresenter > Windows.UI.Xaml.Controls.StackPanel > Windows.UI.Xaml.Controls.ContentPresenter > SystemTray.IconView > Windows.UI.Xaml.Controls.Grid#ContainerGrid > Windows.UI.Xaml.Controls.Grid#ContentGrid > SystemTray.TextIconContent > Windows.UI.Xaml.Controls.Grid#ContainerGrid > SystemTray.AdaptiveTextBlock > TextBlock#InnerTextBlock
+    styles:
+      - Foreground=$RED
+  - target: Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon
+    styles:
+      - Visibility=Collapsed
+  - target: Taskbar.SearchBoxButton#SearchBoxButton[AutomationProperties.AutomationId=SearchButton] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon
+    styles:
+      - Visibility=Collapsed
+  - target: Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.Name=Task View] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon
+    styles:
+      - Visibility=Collapsed
+  - target: Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Border#BackgroundElement
+    styles:
+      - Background:=<ImageBrush Stretch="none" ImageSource="https://raw.githubusercontent.com/MrDLingters/Win11TokyoNight/refs/heads/main/Windhawk/WinButton.png"/>
+  - target: Taskbar.TaskListButtonPanel > Border#BackgroundElement
+    styles:
+      - Margin=0
+      - BorderThickness=1
+  - target: Rectangle#BackgroundStroke
+    styles:
+      - Fill=$BG
+  - target: Taskbar.AugmentedEntryPointButton#AugmentedEntryPointButton > Taskbar.TaskListButtonPanel > Border#BackgroundElement
+    styles:
+      - Background=$BG3
+      - Margin=-20,1,0,1
+      - CornerRadius=0,18,18,0
+themeResourceVariables:
+  - ''
+clickThroughTaskbar: 0
+xamlDiagnosticsHandling: ''
