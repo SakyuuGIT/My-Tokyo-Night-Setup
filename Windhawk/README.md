@@ -8,12 +8,12 @@ This folder contains my Tokyo Night configurations for Windhawk mods.
 2. Open the Windhawk mod you want to customize.
 3. Open the **Advanced** settings.
 4. Go to the **Text** mode.
-5. Open the corresponding file from this folder.
+5. Open the corresponding file from the [`Plugins`](./Plugins) folder.
 6. Copy all of its contents.
 7. Paste the contents into the **Text** mode of the Windhawk mod.
 8. Apply the changes.
 
-Each configuration file corresponds to a specific Windhawk mod.
+Each configuration file in the `Plugins` folder corresponds to a specific Windhawk mod.
 
 ## Credits
 
@@ -25,8 +25,7 @@ Some ideas, techniques, or configurations may have influenced my work. I have al
 
 The configurations provided here are my personal versions and should not be considered official configurations from the original creator.
 
-**Creator:** [MrDLingters](https://github.com/MrDLingters)  
-**YouTube:** [@darrenlingters3512](https://www.youtube.com/@darrenlingters3512)
+**Creator:** [MrDLingters](https://github.com/MrDLingters)
 
 ## Windhawk
 
