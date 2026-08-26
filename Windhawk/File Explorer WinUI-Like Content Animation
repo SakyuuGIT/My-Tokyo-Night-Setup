@@ -1,0 +1,11 @@
+duration: 420
+distance: 32
+fade: 0
+reverseDirection: 0
+pageTransitions: 0
+animateNavPane: 0
+propertyPages:
+  animate: 0
+  tabTransitions: 0
+firstOpenDelay: 500
+navigationDelay: 140
